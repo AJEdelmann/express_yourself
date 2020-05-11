@@ -14,7 +14,7 @@ const emojiSelects = {
 };
 
 const activeMachineImage = {
-  expressions: 'https://s3.amazonaws.com/codecademy-content/courses/learn-express-routes/machine-active.svg',
+  expressions: 'https://s3.amazonaws.com/codecademy-content/courses/learn-express-routes/server-machine-active.svg',
   animals: 'https://s3.amazonaws.com/codecademy-content/courses/learn-express-routes/server-machine-animals.svg'
 };
 
